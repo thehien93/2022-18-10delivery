@@ -6,7 +6,7 @@ import App from './App';
 import './index.css';
 import '.\inde'
 import 'hehehe'
-
+import'heheh'
 const container = document.getElementById('root');
 const root = createRoot(container);
 
