@@ -6,7 +6,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './index.css';
 import '.\inde'
-
+import 'kkkjj'
 const container = document.getElementById('root');
 const root = createRoot(container);
 
